@@ -1,0 +1,11 @@
+CourseCode,Title,Credits,Instructor,Semester,Department,Active
+CS-101,Introduction to Programming,3,Dr. Wilson,FALL,Computer Science,true
+MATH-201,Calculus I,4,Dr. Brown,FALL,Mathematics,true
+PHYS-101,Physics Fundamentals,3,Dr. Davis,SPRING,Physics,true
+ENG-101,English Composition,3,Dr. Miller,FALL,English,true
+CHEM-101,General Chemistry,4,Dr. Taylor,SPRING,Chemistry,true
+BIO-101,Biology Fundamentals,3,Dr. Anderson,SPRING,Biology,true
+HIST-101,World History,3,Dr. Clark,FALL,History,true
+CS-201,Data Structures,4,Dr. Wilson,SPRING,Computer Science,true
+MATH-202,Calculus II,4,Dr. Brown,SPRING,Mathematics,true
+PHYS-102,Advanced Physics,3,Dr. Davis,FALL,Physics,true
