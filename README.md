@@ -19,3 +19,6 @@ A Java-based console application for managing campus academic records. It simpli
    ```bash
    git clone https://github.com/sarthak806/Campus-Courses-records-manager.git
    cd Campus-Courses-records-manager
+2-Compile Java Files:
+ ```bash
+javac -d out src//*.java
